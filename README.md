@@ -1,4 +1,8 @@
 📷 AI Camera Application
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/dac14dc1-de67-402f-882a-700ce4f9da9c" />
+
+
+
 The AI Camera Application is an advanced computer vision project designed to capture and process live video streams in real time. This application utilizes Python and OpenCV as its core technologies, allowing users to interact with their camera seamlessly while integrating AI-based functionalities
 📖 Overview
 
